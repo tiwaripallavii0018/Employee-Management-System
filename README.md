@@ -1,4 +1,4 @@
- Employee Management System
+# Employee Management System
 
 A desktop-based **Employee Management System** developed using **Java Swing** with **MySQL database connectivity through JDBC**.
 
